@@ -2,18 +2,29 @@
 
 ## I am Jacob Carls
 
+I am interested in:
 
-<!--
-**jdcarls/jdcarls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Artificial Intelligence
+- Web Development
+- Software Development
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# What programming languages and tools I use:
+
+## Languages
+- Python
+- HTML/CSS/Javascript
+- C#
+
+## Databases
+- SQLite3
+- PostgreSQL
+
+## IDEs I am currently using
+- Pycharm
+
+## Tools I used in the past:
+- Dreamweaver
+- Webstorm
+- Visual Studio
+- Adobe Creative Cloud
